@@ -1,0 +1,8 @@
+C:\Users\sahna\source\repos\PatChatOdev\PatChatOdev\bin\Debug\PatChatOdev.exe.config
+C:\Users\sahna\source\repos\PatChatOdev\PatChatOdev\bin\Debug\PatChatOdev.exe
+C:\Users\sahna\source\repos\PatChatOdev\PatChatOdev\bin\Debug\PatChatOdev.pdb
+C:\Users\sahna\source\repos\PatChatOdev\PatChatOdev\obj\Debug\PatChatOdev.Properties.Resources.resources
+C:\Users\sahna\source\repos\PatChatOdev\PatChatOdev\obj\Debug\PatChatOdev.csproj.GenerateResource.cache
+C:\Users\sahna\source\repos\PatChatOdev\PatChatOdev\obj\Debug\PatChatOdev.csproj.CoreCompileInputs.cache
+C:\Users\sahna\source\repos\PatChatOdev\PatChatOdev\obj\Debug\PatChatOdev.exe
+C:\Users\sahna\source\repos\PatChatOdev\PatChatOdev\obj\Debug\PatChatOdev.pdb
