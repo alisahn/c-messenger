@@ -14,3 +14,17 @@ Kullanıcı bilgilerini MySQL db içinde sakladım. Bu yüzden dosya içindeki "
  - `user` tablosu içine Kullanıcı bilgileri ekleyin (port bilgisine boş olduğundan emin olduğunuz bir port numarası yazın. Örnek: user_1 için : 81, user_2 için: 82).
  - `Messenger/Db.cs` içinde database bilgilerinizi kendi bilgilerinizle değiştirin.
  - Aynı ağa bağlı olduğunuzdan ve boş portları kullandığınızdan emin olun
+
+![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img1.png)
+![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img2.png)
+![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img3.png)
+
+![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img4.png)
+
+![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img5.png)
+
+![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img6.png)
+
+![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img7.png)
+
+
