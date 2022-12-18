@@ -4,6 +4,8 @@
 PhatChat Messenger, C# ile yazılmış, ağ üzerinden haberleşme uygulamasını kapsar.
 
 - [KURULUM](#kurulum)
+- [KULLANIM](#kullanım)
+- [ÖNEMLİ NOTLAR](#notlar)
 
 # KURULUM
 
@@ -15,16 +17,25 @@ Kullanıcı bilgilerini MySQL db içinde sakladım. Bu yüzden dosya içindeki "
  - `Messenger/Db.cs` içinde database bilgilerinizi kendi bilgilerinizle değiştirin.
  - Aynı ağa bağlı olduğunuzdan ve boş portları kullandığınızdan emin olun
 
-![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img1.png)
-![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img2.png)
-![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img3.png)
 
-![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img4.png)
+# KULLANIM
 
-![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img5.png)
+ -Database'de user tablonuza eklediğiniz kullanıcı bilgilerini aşağıdaki login ekranına girmelisiniz.
+ ![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img1.png)
 
-![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img6.png)
+ -Başarılı giriş yaptıktan sonra aşağıdaki chat ekranına kendinizin ve mesajlaşmak istediğiniz kullanıcının port ve host bilgilerini girmelisiniz.
+ ![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img3.png)
 
-![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img7.png)
+ -Kullanıcı adınızın yanındaki checkbox kutusundan kendinizi Aktif hale getirin ve "Kullanıcı Listesi"nden kontrol edin.
+ ![alt text](https://github.com/alisahn/csharp-messenger/blob/master/img/img2.png)
 
+ -Bilgilerin doğruluğundan emin olduktan sonra "Başlat" butonuyla bağlantı kurabilirsiniz. Bu işlemleri mesaj göndermek istediğiniz diğer kullanıcının da yapması gerekiyor.
 
+# NOTLAR
+
+ - port bilgilerine her kullanıcı için boş port numaraları girmeniz gerekiyor.
+ - host bilginizi bilmiyorsanız cmd ekranında `ipconfig` yazarak, Wi-Fi için en altta IPv4 adresiniz host bilginizdir.
+ - Uygulamanın çalışabilmesi için iki kullanıcının da aynı ağa bağlı olması gerektiğini unutmayınız. 
+ - Uygulama testini tek bir cihazda uygulamayı 2 kez çalıştırarak da yapabilirsiniz.
+ - Uygulama testini aynı ağa bağlı farklı 2 cihazda da test edebilirsiniz
+ - Uygulama testini farklı ağlara bağlı iki uzak cihaz ile test yapmak istiyorsanız Hamachi Server gibi uygulamalarla uzak bilgisayarları aynı ağa bağladıktan sonra sorunsuz test edebilirsiniz.
