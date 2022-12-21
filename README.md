@@ -6,7 +6,7 @@ PhatChat Messenger, C# ile yazılmış, ağ üzerinden haberleşme uygulamasın�
 - [KURULUM](#kurulum)
 - [KULLANIM](#kullanim)
 - [ÖNEMLİ NOTLAR](#notlar)
-- [ÖNERİLER](#&Ouml;ner&Iuml;ler)
+- [ÖNERİLER](#&ouml;neriler)
 
 # KURULUM
 
