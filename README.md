@@ -6,6 +6,7 @@ PhatChat Messenger, C# ile yazılmış, ağ üzerinden haberleşme uygulamasın�
 - [KURULUM](#kurulum)
 - [KULLANIM](#kullanim)
 - [ÖNEMLİ NOTLAR](#notlar)
+- [ÖNERİLER](#oneriler)
 
 # KURULUM
 
@@ -39,3 +40,9 @@ Kullanıcı bilgilerini MySQL db içinde sakladım. Bu yüzden dosya içindeki "
  - Uygulama testini tek bir cihazda uygulamayı 2 kez çalıştırarak da yapabilirsiniz.
  - Uygulama testini aynı ağa bağlı farklı 2 cihazda da test edebilirsiniz
  - Uygulama testini farklı ağlara bağlı iki uzak cihaz ile test yapmak istiyorsanız Hamachi Server gibi uygulamalarla uzak bilgisayarları aynı ağa bağladıktan sonra sorunsuz test edebilirsiniz.
+
+
+# ÖNERİLER
+
+-Arayüz çalışmamı [Bu video'yu](https://www.youtube.com/watch?v=2EcIQEbKBuY&t=477s) uyguladım ve daha sonra özelleştirdim.
+-[MaterialSkin](https://www.nuget.org/packages/MaterialSkin) son sürümünü buradan inceleyebilirsiniz.
