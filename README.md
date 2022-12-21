@@ -44,5 +44,5 @@ Kullanıcı bilgilerini MySQL db içinde sakladım. Bu yüzden dosya içindeki "
 
 # ÖNERİLER
 
--Arayüz çalışmamı [Bu video'yu](https://www.youtube.com/watch?v=2EcIQEbKBuY&t=477s) uyguladım ve daha sonra özelleştirdim.
--[MaterialSkin](https://www.nuget.org/packages/MaterialSkin) son sürümünü buradan inceleyebilirsiniz.
+ - Arayüz çalışmamı [Bu video'yu](https://www.youtube.com/watch?v=2EcIQEbKBuY&t=477s) uyguladım ve daha sonra özelleştirdim.
+ - [MaterialSkin](https://www.nuget.org/packages/MaterialSkin) son sürümünü buradan inceleyebilirsiniz.
